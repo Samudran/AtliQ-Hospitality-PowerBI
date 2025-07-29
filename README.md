@@ -1,30 +1,51 @@
-# AtliQ-Hospitality-PowerBI
+# AtliQ Grands – Power BI Dashboard for Hospitality Analytics
 
-## Problem statement
+## 🧩 Business Problem
 
-Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+AtliQ Grands is a luxury five-star hotel chain operating across India for the past 20 years. In recent times, they’ve been facing a decline in both **market share** and **revenue** in the luxury/business hotel segment due to stronger competition and ineffective internal decision-making.
 
-Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
+To tackle this, the managing director has decided to adopt **Business and Data Intelligence** practices. However, lacking an in-house data analytics team, they outsourced the task to an external data analyst — you.
 
-### Task List
+---
 
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
+## 🎯 Objective
 
-- Create the metrics according to the metric list. 
-- Create a dashboard according to the mock-up provided by stakeholders. 
-- Create relevant insights that are not provided in the metric list/mock-up dashboard.
+As a data analyst, your tasks were to:
+- ✅ Develop business-critical **metrics** as per stakeholder requirements.
+- ✅ Build a **Power BI dashboard** based on mock-up guidelines.
+- ✅ Go beyond the brief and uncover **additional insights** from the data.
 
-## Provided Mock-up Dashboard
-<p align="center">
-    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
-</p>
+---
 
-## Some Important insights from the Dashboard
+## 🛠️ Tools Used
 
-- Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
-- AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
-- AtliQ Bay has the highest occupancy of 66%
-- Week 24 recorded the highest revenue among all, which is 139.6 Million
-- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
-- AtliQ lost around 298 Million in cancellation 
-- Elite type rooms has the most booking and as well higher cancellation rate
+- **Power BI** – For building interactive dashboards
+- **Microsoft Excel** – For initial data exploration and cleaning
+- **DAX** – For calculated metrics and logic
+
+---
+
+## 📊 Dashboard Overview
+
+The dashboard contains:
+- 📌 Year-over-Year Revenue Analysis
+- 📌 Occupancy Rate and ADR (Average Daily Rate)
+- 📌 Revenue by Market Segment and Property
+- 📌 Monthly and Property-wise Trends
+- 📌 Key Performance Indicators (KPIs)
+
+> Screenshots of the dashboard can be found in the `/images` folder.
+
+---
+
+## 🔍 Key Insights
+
+- 📉 Identified significant revenue drop in the **Leisure** market segment post-2020.
+- 📈 **Business travelers** contribute the highest revenue despite lower occupancy.
+- 🏨 Certain properties are underperforming despite being in high-demand locations.
+- 💰 Room pricing and occupancy have a direct correlation with seasonal patterns.
+
+---
+
+## 📁 File Structure
+
