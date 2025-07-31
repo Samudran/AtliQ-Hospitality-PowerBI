@@ -108,7 +108,6 @@ Aspiring Data Analyst | Skilled in Power BI, SQL, and Python
 
 📧 [samsamudran@gmail.com]  
 🔗 [LinkedIn](https://www.linkedin.com/in/samudran-r)  
-💼 [Portfolio](https://codebasics.io/portfolio/Samudran-R.com)
 
 If you found this project insightful or have feedback, feel free to connect!
 
