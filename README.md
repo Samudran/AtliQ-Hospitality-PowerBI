@@ -19,8 +19,8 @@ As a data analyst, your tasks were to:
 
 ## 🛠️ Tools Used
 
-- **Power BI** – For building interactive dashboards
-- **Microsoft Excel** – For initial data exploration and cleaning
+- **Power BI** – For building interactive dashboards  
+- **Microsoft Excel** – For initial data exploration and cleaning  
 - **DAX** – For calculated metrics and logic
 
 ---
@@ -28,24 +28,28 @@ As a data analyst, your tasks were to:
 ## 📊 Dashboard Overview
 
 The dashboard contains:
-- 📌 Year-over-Year Revenue Analysis
-- 📌 Occupancy Rate and ADR (Average Daily Rate)
-- 📌 Revenue by Market Segment and Property
-- 📌 Monthly and Property-wise Trends
+- 📌 Occupancy Rate and ADR (Average Daily Rate)  
+- 📌 Revenue by Market Segment and Property  
+- 📌 Weekly and Property-wise Trends  
 - 📌 Key Performance Indicators (KPIs)
 
-> Screenshots of the dashboard can be found in the `/images` folder.
+> Screenshots of the dashboard can be found in the `/Images` folder.
 
 ---
 
-## 🔍 Key Insights
+## 🖼️ Dashboard Preview
 
-- 📉 Identified significant revenue drop in the **Leisure** market segment post-2020.
-- 📈 **Business travelers** contribute the highest revenue despite lower occupancy.
-- 🏨 Certain properties are underperforming despite being in high-demand locations.
-- 💰 Room pricing and occupancy have a direct correlation with seasonal patterns.
+Below are the main sections of the Power BI dashboard created for AtliQ Grands:
+
+### 1️⃣ Overview Dashboard
+
+![Overview Dashboard](Resources/Images/AtliQ%20Hospitality%20Dashboard.png)
+
+This page offers a holistic view of performance metrics across all properties:
+- Revenue, ADR (Average Daily Rate), and Occupancy Rate at a glance
+- Filters for time period and market segment
+- High-level KPIs for quick executive understanding
 
 ---
 
-## 📁 File Structure
 
