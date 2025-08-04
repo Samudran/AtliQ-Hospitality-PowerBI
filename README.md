@@ -103,7 +103,7 @@ By consolidating all critical metrics into a single interactive view, the dashbo
 
 ## 👤 Author
 
-**[Samudran R]**  
+**Samudran R**  
 Aspiring Data Analyst | Skilled in Power BI, SQL, and Python  
 
 📧 [samsamudran@gmail.com]  
